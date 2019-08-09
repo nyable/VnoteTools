@@ -20,3 +20,5 @@ Import markdown file to Vnote note directory
  3. 将程序复制到笔记本根目录并运行
  4. 程序会将从根目录开始的每一个markdown文件以及文件夹添加到Vnote的配置文件中
  5. 好像在笔记本的根目录不能查看md文件,所以笔记本根目录最好都是文件夹,在文件夹中来管理md文件
+
+### JDK版本需要1.8及以上
